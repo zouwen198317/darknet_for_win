@@ -1,0 +1,6 @@
+/crun/test/test/.vs
+/crun/test/test/*.sdf
+*.obj
+*.tlog
+/buildNT/darknet/Debug
+/buildNT/darknet/darknet/Debug
